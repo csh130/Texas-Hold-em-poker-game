@@ -1,0 +1,3 @@
+﻿The graph shows that in the rational game, the game result for two players are quite similar, the money the won are colsed. And the times each player won are simialr.
+
+For the non-rational game,  although the times which player win are closed, but the money they won differs a lot. Player 1 get much more than player 2 who uses fixed strategy. 
